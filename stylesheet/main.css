@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(230, 252, 235);
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+h2, h3 {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.heading {
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+    top: 1%;
+}
+
+.links {
+    text-align: center;
+}
+
+.nav li {
+    display: inline;
+}
+
+a {
+    padding: 15px;
+}
+
+a:hover {
+    background-color: rgb(187, 247, 202);
+}
+
+p {
+    font-family: 'Hind', sans-serif;
+}
+
+#ingrediant, #recipe {
+    text-align: justify;
+    margin: auto;
+    width: 50%;
+    font-family: 'Hind', sans-serif;
+    font-size: 19px;
+}
+
+#ingrediant {
+    color: rgb(40, 85, 70);
+}
+
+#recipe {
+    font-family: 'Hind', sans-serif;
+}
+
+.primary-nav {
+    display: flex;
+    justify-content: center;
+}
+
